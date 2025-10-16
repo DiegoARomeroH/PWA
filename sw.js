@@ -2,7 +2,7 @@
 
 // 1. Nombre del sw y los archivos a cachear
 const CACHE_NAME = 'mi-cache';
-const BASE_PATH = 'PWA/';
+const BASE_PATH = '/PWA/';
 const urlsToCache = [
     `${BASE_PATH} index.html`,
     `${BASE_PATH} manifest.json`,

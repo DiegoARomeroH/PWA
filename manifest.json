@@ -1,8 +1,8 @@
 {
     "name": "Mi primera PWA",
     "short_nqme": "MiPWA",
-    "start_url": "PWA/index.html",
-    "scope": "PWA",
+    "start_url": "/PWA/index.html",
+    "scope": "/PWA",
     "display": "standalone",
     "background_color": "#2196f3",
     "theme_color": "#2196f3",
@@ -13,7 +13,7 @@
         "type": "image/png"
     },
     {
-        "src": "PWA/icons/icon-96x96.png",
+        "src": "icons/icon-96x96.png",
         "sizes": "96x96",
         "type": "image/png"
     },
