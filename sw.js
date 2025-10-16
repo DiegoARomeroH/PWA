@@ -2,7 +2,7 @@
 
 //t.Nombre sw y los archivos a cachear
 const CACHE_NAME= "mi-cache";
-const BASE_PATH= "/PWA/"; //Ajustar segun la ruta del proyecto
+const BASE_PATH= "/PWA"; //Ajustar segun la ruta del proyecto
 const urlsToCache = [
     `${BASE_PATH}index.html`,
     `${BASE_PATH}style.css`,
