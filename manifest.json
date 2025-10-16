@@ -1,14 +1,13 @@
 {
     "name": "Mi primera PWA",
     "short_nqme": "MiPWA",
-    "start_url": "/PWA/index.html",
-    "scope": "/PWA",
+    "start_url": "index.html",
     "display": "standalone",
-    "background_color": "#2196f3",
+    "background_color": "#ffffff",
     "theme_color": "#2196f3",
     "orientation": "portrait",
     "icons": [{
-        "src": "icons/72x72.png",
+        "src": "icons/icon-72x72.png",
         "sizes": "72x72",
         "type": "image/png"
     },
@@ -33,12 +32,12 @@
         "type": "image/png"
     },
     {
-        "src": "icons/384.png",
+        "src": "icons/icon-384x384.png",
         "sizes": "384x384",
         "type": "image/png"
     },
     {
-        "src": "icons/512.png",
+        "src": "icons/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
     }
